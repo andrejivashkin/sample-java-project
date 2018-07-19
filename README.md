@@ -1,4 +1,5 @@
 #This is an example line
+#This is the second example line
 
 # Sample Java Project
 
